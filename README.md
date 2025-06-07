@@ -11,9 +11,11 @@ The aim is to provide a clear, data-driven understanding of the e-commerce busin
 Installation
 To explore and run this project locally, ensure you have Microsoft Power BI Desktop installed.
 
-E-Commerce Sales Dashboard Using Power BI
+
 Tools and Technologies
 Microsoft Power BI
+Power Query
+Dax Query
 
 Power Query (Data Transformation & ETL)
 
